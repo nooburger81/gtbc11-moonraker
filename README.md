@@ -19,7 +19,8 @@
 
   ## Usage
   To create and update new and existing to-do tasks. 
-
+  Below is the link to the viedo walkthrough.
+<https://watch.screencastify.com/v/0Frjk3hn5aiG4gCp4LYp>
   ## License
     This project is licensed under the MIT license.
 
